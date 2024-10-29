@@ -1,5 +1,8 @@
+from util.print_hello_world import print_hello_world
+
+
 def load_model():
-    print("Hello World!")
+    print_hello_world()
     return 42
 
 
